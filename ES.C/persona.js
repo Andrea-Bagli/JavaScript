@@ -6,4 +6,4 @@ persona.cognome = prompt("Inserisci il cognome")
 
 persona.eta = prompt("Inserisci l'eta")
 
-persona.log(utente)
+persona.log(persona)
